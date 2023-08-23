@@ -1,0 +1,17 @@
+
+*{
+    margin: 0;
+}
+h3{
+    font-size: large;
+    text-decoration: underline;
+    margin: 30px;
+}
+.hero{
+    background-color: cyan;
+    border-radius: 10px;
+    border: 5px solid crimson;
+    text-align:center;
+    margin: 10px;
+    padding: 20px;
+}
