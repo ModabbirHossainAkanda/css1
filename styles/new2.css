@@ -1,0 +1,10 @@
+
+
+.short{
+    background-color: aqua;
+    height: 500px;
+    background-image:url('plane.jpg');
+    /* background-size: contain; */
+    background-size: 200px;
+    background-repeat: none;
+}
